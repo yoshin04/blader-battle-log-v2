@@ -28,6 +28,7 @@
 ```bash
 git clone https://github.com/your-repo/beyblade-predictor.git
 cd beyblade-predictor
+```
 
 2.環境変数の設定
 ```
